@@ -210,10 +210,7 @@ HANYUAI 不仅是一个工具库，更是各行业专业人士的提效工作流
 HANYUAI 致力于为全球中文创作者带来最优质的图像处理体验。如果您有任何功能建议、API 接入或广告合作需求，欢迎联系探讨！
 
 - **官方网站**: <a href="https://www.hanyuai.com/zh">HANYUAI 官网</a>
-- **客服微信**: ai_wangluodan
-- **客服QQ**: 1229852073
-- **广告合作邮箱**: peng787143156@gmail.com
-- **版权声明**: © 2024 HANYUAI 图像助理. All rights reserved. (蜀ICP备2023013606号-7)
+
 
 ---
 *If you find this AI Tool helpful for your projects, please give us a ⭐️ on GitHub and share [HANYUAI (hanyuai.com)](https://www.hanyuai.com/zh) with your friends and community!*
