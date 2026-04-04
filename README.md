@@ -1,4 +1,4 @@
-# 🎨 HANYUAI 图像助理 - 免费的一站式在线 AI 图像处理与创作平台
+# 🎨  免费的一站式在线 AI 图像处理与创作平台
 
 <div align="center">
   <a href="https://www.hanyuai.com/zh" target="_blank">
