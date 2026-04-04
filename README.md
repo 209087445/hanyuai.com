@@ -15,7 +15,7 @@
 
 ---
 
-## 🌟 核心主栏目导航 (Core Navigation)
+## 🌟 核心主栏目 (Core Navigation)
 您可以直接点击以下三大主栏目，进入对应的 AI 创作中心：
 
 1. 🚀 <a href="https://www.hanyuai.com/zh/text-to-image" title="AI图像生成"><b>AI 图像生成 (Text-to-Image)</b></a>：输入文字提示词，极速生成全风格高清大图。
