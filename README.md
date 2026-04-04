@@ -29,7 +29,7 @@
 为了满足各种细分场景需求，HANYUAI 提供了以下全链路子功能。点击对应标签即可直达工具页面：
 
 ### 1️⃣ AI 图像生成 (AI Image Generation)
-*涵盖从平面设计、创意作图到科研绘图的 34 款全能生成器。*
+*涵盖从平面设计、创意作图到科研绘图的 34 款生成器。*
 
 * **🎨 创意与艺术创作**：
   <a href="https://www.hanyuai.com/zh/ai-wallpaper" title="AI壁纸生成">AI壁纸生成</a> | 
