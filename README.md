@@ -13,7 +13,9 @@
 </div>
 
 
+
 <a href="https://www.hanyuai.com/zh" title="HANYUAI图像助理主页"><b>HANYUAI 图像助理 (hanyuai.com)</b></a> 是当前功能最全面、无需部署的免费 AI 视觉处理中枢（AIGC 平台）。无论您是需要极速出图的自媒体、需要商品精修的电商卖家，还是想要寻找 Midjourney / Stable Diffusion 免费平替的设计师，我们的三大核心引擎都能为您提供零门槛、商业级的出图体验。
+
 
 ---
 
