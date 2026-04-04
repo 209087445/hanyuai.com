@@ -86,7 +86,7 @@
   <a href="https://www.hanyuai.com/zh/transparent-bg" title="透明背景">透明背景</a> | 
   <a href="https://www.hanyuai.com/zh/ai-bg-changer" title="AI背景更换器">AI背景更换器</a>
 
-* **✨ 画质修复与增强**：
+* **✨ 画质修复增强**：
   <a href="https://www.hanyuai.com/zh/ai-photo-restore" title="AI老照片修复">AI老照片修复</a> | 
   <a href="https://www.hanyuai.com/zh/ai-photo-colorize" title="AI老照片上色">AI老照片上色</a> | 
   <a href="https://www.hanyuai.com/zh/ai-upscale" title="AI图片变高清">AI图片变高清</a> | 
